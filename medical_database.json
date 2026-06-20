@@ -1,0 +1,245 @@
+{
+  "medical_conditions": {
+    "hypertension": {
+      "name": "Hypertension",
+      "hindi_name": "उच्च रक्तचाप",
+      "description": "High blood pressure condition",
+      "icd_code": "I10",
+      "common_symptoms": ["Headache", "Shortness of breath", "Chest pain", "Fatigue", "Blurred vision"],
+      "risk_factors": ["Stress", "Obesity", "Salt intake", "Alcohol", "Smoking", "Family history"],
+      "complications": ["Heart attack", "Stroke", "Kidney disease", "Heart failure"],
+      "common_medications": ["Lisinopril", "Amlodipine", "Losartan", "Atenolol", "Enalapril"],
+      "treatment_tips": "Regular exercise, reduce salt intake, manage stress, maintain healthy weight, avoid alcohol",
+      "doctor_specialty": "Cardiology / General Medicine",
+      "prevalence_india": "High - affects 15-20% of adults"
+    },
+    
+    "diabetes_type_2": {
+      "name": "Diabetes Type 2",
+      "hindi_name": "टाइप 2 मधुमेह",
+      "description": "Blood sugar regulation disorder",
+      "icd_code": "E11",
+      "common_symptoms": ["Increased thirst", "Fatigue", "Frequent urination", "Blurred vision", "Slow healing"],
+      "risk_factors": ["Obesity", "Sedentary lifestyle", "Family history", "Age over 45", "Stress"],
+      "complications": ["Neuropathy", "Retinopathy", "Nephropathy", "Heart disease", "Stroke"],
+      "common_medications": ["Metformin", "Glipizide", "Insulin", "Pioglitazone", "Sitagliptin"],
+      "treatment_tips": "Regular exercise, healthy diet, weight loss, blood sugar monitoring, medication adherence",
+      "doctor_specialty": "Endocrinology / General Medicine",
+      "prevalence_india": "Very High - affects 10-15% of population (rising)"
+    },
+    
+    "asthma": {
+      "name": "Asthma",
+      "hindi_name": "अस्थमा",
+      "description": "Chronic respiratory inflammation",
+      "icd_code": "J45",
+      "common_symptoms": ["Wheezing", "Shortness of breath", "Chest tightness", "Coughing at night", "Fatigue"],
+      "risk_factors": ["Allergies", "Air pollution", "Cold air", "Exercise", "Stress", "Family history"],
+      "complications": ["Severe attacks", "Respiratory failure", "Sleep disruption", "Exercise limitation"],
+      "common_medications": ["Albuterol inhaler", "Fluticasone inhaler", "Montelukast", "Omalizumab"],
+      "treatment_tips": "Avoid triggers, use inhalers correctly, maintain healthy weight, stay active",
+      "doctor_specialty": "Pulmonology / General Medicine",
+      "prevalence_india": "Moderate - affects 2-5% of population"
+    },
+    
+    "coronary_artery_disease": {
+      "name": "Coronary Artery Disease",
+      "hindi_name": "कोरोनरी आर्टरी रोग",
+      "description": "Narrowing of blood vessels supplying heart",
+      "icd_code": "I25",
+      "common_symptoms": ["Chest pain", "Shortness of breath", "Fatigue", "Heart palpitations", "Anxiety"],
+      "risk_factors": ["Hypertension", "High cholesterol", "Smoking", "Diabetes", "Stress", "Family history"],
+      "complications": ["Heart attack", "Arrhythmia", "Heart failure", "Sudden cardiac death"],
+      "common_medications": ["Aspirin", "Atorvastatin", "Metoprolol", "Nitroglycerin", "ACE inhibitors"],
+      "treatment_tips": "Healthy diet, regular exercise, stress management, quit smoking, medication adherence",
+      "doctor_specialty": "Cardiology",
+      "prevalence_india": "High - leading cause of death"
+    },
+    
+    "hypothyroidism": {
+      "name": "Hypothyroidism",
+      "hindi_name": "हाइपोथायरायडिज्म",
+      "description": "Low thyroid hormone production",
+      "icd_code": "E03",
+      "common_symptoms": ["Fatigue", "Weight gain", "Cold intolerance", "Dry skin", "Hair loss", "Depression"],
+      "risk_factors": ["Autoimmune disease", "Age over 60", "Female gender", "Family history", "Radiation"],
+      "complications": ["Goiter", "Heart disease", "Depression", "Infertility"],
+      "common_medications": ["Levothyroxine", "Liothyronine", "Desiccated thyroid"],
+      "treatment_tips": "Regular TSH monitoring, consistent medication, healthy diet, adequate iodine intake",
+      "doctor_specialty": "Endocrinology",
+      "prevalence_india": "Moderate - affects 5-10% of adults"
+    },
+    
+    "tuberculosis": {
+      "name": "Tuberculosis (TB)",
+      "hindi_name": "तपेदिक",
+      "description": "Infectious bacterial infection, usually lungs",
+      "icd_code": "A15-A19",
+      "common_symptoms": ["Chronic cough (2+ weeks)", "Blood in sputum", "Fever", "Night sweats", "Weight loss", "Fatigue"],
+      "risk_factors": ["Close contact with TB patient", "Weak immunity", "Malnutrition", "Overcrowding"],
+      "complications": ["Multi-drug resistance", "TB meningitis", "Miliary TB", "Respiratory failure"],
+      "common_medications": ["Isoniazid", "Rifampicin", "Pyrazinamide", "Ethambutol"],
+      "treatment_tips": "Complete full course of antibiotics, regular monitoring, isolation initially, nutritious diet",
+      "doctor_specialty": "Pulmonology / TB specialist",
+      "prevalence_india": "High - endemic in India (HIGH TB BURDEN)"
+    },
+    
+    "arthritis": {
+      "name": "Arthritis",
+      "hindi_name": "गठिया",
+      "description": "Joint inflammation and degeneration",
+      "icd_code": "M15-M19",
+      "common_symptoms": ["Joint pain", "Stiffness", "Swelling", "Reduced mobility", "Redness around joints"],
+      "risk_factors": ["Age", "Obesity", "Previous injury", "Family history", "Autoimmune disease"],
+      "complications": ["Severe disability", "Depression", "Reduced quality of life"],
+      "common_medications": ["Ibuprofen", "Methotrexate", "Prednisone", "Glucosamine", "Hyaluronic acid"],
+      "treatment_tips": "Regular exercise, weight management, physical therapy, pain management, joint protection",
+      "doctor_specialty": "Rheumatology / Orthopedics",
+      "prevalence_india": "High - very common in aging population"
+    },
+    
+    "dengue": {
+      "name": "Dengue Fever",
+      "hindi_name": "डेंगू",
+      "description": "Viral infection transmitted by mosquitoes",
+      "icd_code": "A90-A91",
+      "common_symptoms": ["High fever", "Headache", "Body ache", "Rash", "Bleeding gums", "Joint pain"],
+      "risk_factors": ["Mosquito exposure", "Living in endemic areas", "Monsoon season", "Poor sanitation"],
+      "complications": ["Dengue hemorrhagic fever", "Plasma leakage", "Shock", "Death"],
+      "common_medications": ["Paracetamol", "Supportive care", "Platelet transfusions if needed"],
+      "treatment_tips": "Rest, hydration, avoid NSAIDs, monitor platelet count, seek hospital care if severe",
+      "doctor_specialty": "General Medicine / Infectious Disease",
+      "prevalence_india": "Seasonal epidemic - India endemic area"
+    }
+  },
+  
+  "medical_specialties": {
+    "general_medicine": {
+      "name": "General Medicine",
+      "hindi_name": "सामान्य चिकित्सा",
+      "description": "First point of contact for most patients",
+      "conditions_treated": ["Hypertension", "Diabetes", "Fever", "Infections", "Routine checkups"],
+      "common_tests": ["Blood pressure", "Blood tests", "Urine test", "ECG"]
+    },
+    
+    "cardiology": {
+      "name": "Cardiology",
+      "hindi_name": "कार्डियोलॉजी",
+      "description": "Heart and cardiovascular diseases",
+      "conditions_treated": ["Heart disease", "Hypertension", "Arrhythmia", "Heart failure"],
+      "common_tests": ["ECG", "Echocardiogram", "Stress test", "Angiography"]
+    },
+    
+    "endocrinology": {
+      "name": "Endocrinology",
+      "hindi_name": "एंडोक्रिनोलॉजी",
+      "description": "Hormonal and metabolic disorders",
+      "conditions_treated": ["Diabetes", "Thyroid disorders", "Obesity", "PCOS", "Hormonal imbalances"],
+      "common_tests": ["Glucose test", "TSH test", "HbA1c", "Hormone panels"]
+    },
+    
+    "pulmonology": {
+      "name": "Pulmonology",
+      "hindi_name": "पल्मोनोलॉजी",
+      "description": "Lung and respiratory diseases",
+      "conditions_treated": ["Asthma", "COPD", "TB", "Pneumonia", "Sleep apnea"],
+      "common_tests": ["Spirometry", "Chest X-ray", "CT scan", "Sleep study"]
+    },
+    
+    "orthopedics": {
+      "name": "Orthopedics",
+      "hindi_name": "आर्थोपेडिक्स",
+      "description": "Bone and joint problems",
+      "conditions_treated": ["Arthritis", "Fractures", "Sports injuries", "Osteoporosis"],
+      "common_tests": ["X-ray", "MRI", "Bone density scan", "CT scan"]
+    },
+    
+    "gynecology": {
+      "name": "Gynecology",
+      "hindi_name": "स्त्री रोग",
+      "description": "Women's health and reproductive system",
+      "conditions_treated": ["PCOS", "Infertility", "Menstrual disorders", "Pregnancy care"],
+      "common_tests": ["Pelvic exam", "Ultrasound", "Hormone tests", "Pap smear"]
+    },
+    
+    "dermatology": {
+      "name": "Dermatology",
+      "hindi_name": "त्वचा विज्ञान",
+      "description": "Skin diseases and conditions",
+      "conditions_treated": ["Eczema", "Psoriasis", "Acne", "Infections", "Skin cancer"],
+      "common_tests": ["Skin biopsy", "Patch test", "Dermoscopy"]
+    }
+  },
+  
+  "languages_supported": {
+    "english": {
+      "code": "en",
+      "name": "English",
+      "speaker_count": "~400 million"
+    },
+    
+    "hindi": {
+      "code": "hi",
+      "name": "Hindi",
+      "hindi_name": "हिंदी",
+      "speaker_count": "~600 million (most spoken in India!)"
+    },
+    
+    "tamil": {
+      "code": "ta",
+      "name": "Tamil",
+      "speaker_count": "~75 million"
+    },
+    
+    "telugu": {
+      "code": "te",
+      "name": "Telugu",
+      "speaker_count": "~75 million"
+    },
+    
+    "marathi": {
+      "code": "mr",
+      "name": "Marathi",
+      "speaker_count": "~83 million"
+    },
+    
+    "gujarati": {
+      "code": "gu",
+      "name": "Gujarati",
+      "speaker_count": "~50 million"
+    }
+  },
+  
+  "indian_health_statistics": {
+    "population": "1.45 billion (as of 2024)",
+    "life_expectancy": "72.2 years",
+    "infant_mortality_rate": "28 per 1000 births",
+    "health_expenditure": "₹891 billion (2024)",
+    
+    "disease_burden": {
+      "hypertension": "15-20% of adults",
+      "diabetes": "10-15% of population",
+      "tb": "2-3% of population",
+      "asthma": "2-5% of population",
+      "heart_disease": "Leading cause of death",
+      "stroke": "Second leading cause of death"
+    },
+    
+    "healthcare_system": {
+      "government_vs_private": "64% seek private care, 22.8% government care",
+      "urban_vs_rural": "65% urban, 35% rural population",
+      "doctor_patient_ratio": "1 doctor per 1500-2000 people (needs improvement)",
+      "nurse_ratio": "1.7 nurses per 1000 people (WHO recommendation: 3)"
+    }
+  },
+  
+  "no_show_reduction_tips": {
+    "strategy_1": "Voice call reminders 24 hours before appointment",
+    "strategy_2": "SMS reminders + WhatsApp confirmations",
+    "strategy_3": "Allow rescheduling via voice bot",
+    "strategy_4": "Send appointment details in preferred language (Hindi/Tamil/etc)",
+    "strategy_5": "Ask for reason if patient cancels - improves future attendance",
+    "strategy_6": "Financial incentive: Small discount for attending follow-ups",
+    "expected_reduction": "38% reduction in no-shows (industry standard)"
+  }
+}

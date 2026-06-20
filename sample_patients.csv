@@ -1,0 +1,26 @@
+patient_id,name,phone,age,gender,medical_history,medications,language,preferred_time,email
+P001,Rajesh Kumar,+91-98765-43210,45,Male,Hypertension | Diabetes Type 2,Lisinopril 10mg | Metformin 500mg,Hindi,Morning (9-12 PM),rajesh.kumar@email.com
+P002,Priya Singh,+91-98765-43211,32,Female,Asthma,Albuterol inhaler,English,Evening (4-6 PM),priya.singh@email.com
+P003,Amit Patel,+91-98765-43212,58,Male,Coronary Artery Disease | High Cholesterol,Atorvastatin 20mg | Aspirin 75mg,Gujarati,Morning (9-12 PM),amit.patel@email.com
+P004,Neha Sharma,+91-98765-43213,28,Female,Thyroid Disorder (Hypothyroidism),Levothyroxine 75mcg,Hindi,Afternoon (12-4 PM),neha.sharma@email.com
+P005,Vikram Singh,+91-98765-43214,62,Male,Type 2 Diabetes | Hypertension | Arthritis,Metformin 500mg | Amlodipine 5mg | Ibuprofen 400mg,Hindi,Morning (9-12 PM),vikram.singh@email.com
+P006,Deepa Reddy,+91-98765-43215,35,Female,Migraine | Anxiety,Amitriptyline 25mg | Lorazepam 0.5mg,Telugu,Evening (4-6 PM),deepa.reddy@email.com
+P007,Suresh Kumar,+91-98765-43216,50,Male,Hypertension,Enalapril 5mg,Tamil,Morning (9-12 PM),suresh.kumar@email.com
+P008,Anjali Verma,+91-98765-43217,42,Female,Type 2 Diabetes,Glipizide 5mg,Hindi,Afternoon (12-4 PM),anjali.verma@email.com
+P009,Rahul Desai,+91-98765-43218,55,Male,COPD | Smoking History,Albuterol inhaler | Tiotropium inhaler,Marathi,Morning (9-12 PM),rahul.desai@email.com
+P010,Sunita Gupta,+91-98765-43219,38,Female,Osteoporosis,Calcium carbonate 500mg | Vitamin D3,Hindi,Afternoon (12-4 PM),sunita.gupta@email.com
+P011,Arun Bhat,+91-98765-43220,48,Male,Hypertension | Obesity,Lisinopril 10mg,Kannada,Morning (9-12 PM),arun.bhat@email.com
+P012,Meera Nair,+91-98765-43221,45,Female,Type 2 Diabetes | Hypertension,Metformin 500mg | Losartan 50mg,Malayalam,Evening (4-6 PM),meera.nair@email.com
+P013,Sanjay Chopra,+91-98765-43222,60,Male,Atrial Fibrillation | Heart Disease,Warfarin 5mg | Metoprolol 50mg,Hindi,Morning (9-12 PM),sanjay.chopra@email.com
+P014,Ritu Sharma,+91-98765-43223,40,Female,Rheumatoid Arthritis,Methotrexate 10mg | Prednisone 5mg,Hindi,Afternoon (12-4 PM),ritu.sharma@email.com
+P015,Nikhil Joshi,+91-98765-43224,52,Male,Type 2 Diabetes | Chronic Kidney Disease,Metformin 500mg | Amlodipine 5mg,Marathi,Morning (9-12 PM),nikhil.joshi@email.com
+P016,Kavya Iyer,+91-98765-43225,36,Female,PCOS | Infertility,Metformin 500mg | Letrozole 2.5mg,Tamil,Afternoon (12-4 PM),kavya.iyer@email.com
+P017,Arjun Singh,+91-98765-43226,55,Male,Prostate Issues | Hypertension,Finasteride 5mg | Amlodipine 5mg,Hindi,Morning (9-12 PM),arjun.singh@email.com
+P018,Divya Krishnan,+91-98765-43227,44,Female,Type 2 Diabetes | Neuropathy,Metformin 500mg | Pregabalin 150mg,Malayalam,Evening (4-6 PM),divya.krishnan@email.com
+P019,Mohit Verma,+91-98765-43228,50,Male,Gout | Hypertension,Allopurinol 100mg | Losartan 50mg,Hindi,Morning (9-12 PM),mohit.verma@email.com
+P020,Priya Deshmukh,+91-98765-43229,38,Female,Asthma | Eczema,Fluticasone inhaler | Moisturizer,Marathi,Afternoon (12-4 PM),priya.deshmukh@email.com
+P021,Vinay Kumar,+91-98765-43230,65,Male,Type 2 Diabetes | Hypertension | Heart Disease,Metformin 500mg | Lisinopril 10mg | Aspirin 75mg,Kannada,Morning (9-12 PM),vinay.kumar@email.com
+P022,Anjana Verma,+91-98765-43231,42,Female,Hypothyroidism | High Cholesterol,Levothyroxine 75mcg | Atorvastatin 20mg,Hindi,Afternoon (12-4 PM),anjana.verma@email.com
+P023,Ramesh Iyer,+91-98765-43232,58,Male,Sleep Apnea,CPAP machine,English,Evening (4-6 PM),ramesh.iyer@email.com
+P024,Shweta Singh,+91-98765-43233,35,Female,Type 1 Diabetes,Insulin (Humalog + Lantus),Hindi,Morning (9-12 PM),shweta.singh@email.com
+P025,Karthik Reddy,+91-98765-43234,50,Male,Ulcerative Colitis,Mesalamine 500mg | Prednisone 10mg,Telugu,Afternoon (12-4 PM),karthik.reddy@email.com

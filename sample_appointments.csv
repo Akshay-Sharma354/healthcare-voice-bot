@@ -1,0 +1,41 @@
+appointment_id,patient_id,patient_name,doctor_name,specialty,date,time,status,reason_for_visit,showed_up,reminder_sent,notes
+A001,P001,Rajesh Kumar,Dr. Amitabh Sharma,General Medicine,2024-06-25,10:00 AM,Confirmed,Routine checkup - Hypertension follow-up,TRUE,FALSE,Patient confirmed via phone
+A002,P005,Vikram Singh,Dr. Neha Patel,Cardiology,2024-06-26,2:30 PM,Confirmed,Chest pain evaluation,FALSE,FALSE,NO-SHOW - Lost revenue ₹500
+A003,P002,Priya Singh,Dr. Rajesh Gupta,General Medicine,2024-06-26,11:00 AM,Confirmed,Asthma review,TRUE,FALSE,Patient attended on time
+A004,P003,Amit Patel,Dr. Suresh Kumar,Cardiology,2024-06-27,3:00 PM,Confirmed,Cholesterol check,TRUE,FALSE,Lab tests ordered
+A005,P004,Neha Sharma,Dr. Priya Nair,Endocrinology,2024-06-28,9:30 AM,Confirmed,Thyroid function test,TRUE,TRUE,Reminder sent 24 hours before
+A006,P006,Deepa Reddy,Dr. Anil Kumar,Neurology,2024-06-28,4:00 PM,Confirmed,Migraine management,FALSE,FALSE,NO-SHOW - Patient not reachable
+A007,P007,Suresh Kumar,Dr. Amitabh Sharma,General Medicine,2024-06-29,10:00 AM,Confirmed,Blood pressure check,TRUE,FALSE,Regular follow-up
+A008,P008,Anjali Verma,Dr. Priya Nair,Endocrinology,2024-06-29,2:00 PM,Confirmed,Diabetes management,TRUE,FALSE,HbA1c test done
+A009,P009,Rahul Desai,Dr. Suresh Kumar,Pulmonology,2024-06-30,11:00 AM,Confirmed,Respiratory function test,FALSE,TRUE,NO-SHOW despite reminder
+A010,P010,Sunita Gupta,Dr. Meera Singh,Orthopedics,2024-06-30,3:30 PM,Confirmed,Bone density scan,TRUE,FALSE,Scan scheduled
+A011,P011,Arun Bhat,Dr. Amitabh Sharma,General Medicine,2024-07-01,10:00 AM,Confirmed,Weight management counseling,TRUE,FALSE,Lifestyle advice given
+A012,P012,Meera Nair,Dr. Priya Nair,Endocrinology,2024-07-01,2:30 PM,Confirmed,Diabetes and BP check,TRUE,TRUE,Reminder sent via SMS
+A013,P013,Sanjay Chopra,Dr. Suresh Kumar,Cardiology,2024-07-02,9:00 AM,Confirmed,Atrial fibrillation follow-up,TRUE,FALSE,INR check done
+A014,P014,Ritu Sharma,Dr. Meera Singh,Rheumatology,2024-07-02,4:00 PM,Confirmed,Arthritis management,TRUE,FALSE,New medication started
+A015,P015,Nikhil Joshi,Dr. Priya Nair,Endocrinology,2024-07-03,11:00 AM,Confirmed,Kidney function test,FALSE,FALSE,NO-SHOW - Called later to reschedule
+A016,P016,Kavya Iyer,Dr. Anjali Reddy,Gynecology,2024-07-03,2:00 PM,Confirmed,PCOS fertility consultation,TRUE,FALSE,Treatment plan discussed
+A017,P017,Arjun Singh,Dr. Amitabh Sharma,General Medicine,2024-07-04,10:30 AM,Confirmed,Prostate screening,TRUE,FALSE,PSA test ordered
+A018,P018,Divya Krishnan,Dr. Suresh Kumar,Neurology,2024-07-04,3:30 PM,Confirmed,Neuropathy assessment,FALSE,TRUE,NO-SHOW - Follow-up needed
+A019,P019,Mohit Verma,Dr. Priya Nair,Rheumatology,2024-07-05,9:30 AM,Confirmed,Gout management,TRUE,FALSE,Uric acid levels normal
+A020,P020,Priya Deshmukh,Dr. Anil Kumar,Dermatology,2024-07-05,4:00 PM,Confirmed,Eczema treatment,TRUE,FALSE,New skincare regimen prescribed
+A021,P021,Vinay Kumar,Dr. Suresh Kumar,Cardiology,2024-07-06,10:00 AM,Confirmed,Cardiac evaluation,TRUE,FALSE,ECG and echo done
+A022,P022,Anjana Verma,Dr. Priya Nair,Endocrinology,2024-07-06,2:30 PM,Confirmed,Thyroid and lipid profile,TRUE,TRUE,Reminder sent 48 hours before
+A023,P023,Ramesh Iyer,Dr. Meera Singh,Sleep Medicine,2024-07-07,11:00 AM,Confirmed,Sleep apnea assessment,FALSE,FALSE,NO-SHOW - Lost ₹700
+A024,P024,Shweta Singh,Dr. Priya Nair,Endocrinology,2024-07-07,3:00 PM,Confirmed,Insulin dosage adjustment,TRUE,FALSE,New insulin pump discussed
+A025,P025,Karthik Reddy,Dr. Anil Kumar,Gastroenterology,2024-07-08,10:00 AM,Confirmed,Ulcerative colitis review,TRUE,FALSE,Colonoscopy scheduled
+A026,P001,Rajesh Kumar,Dr. Amitabh Sharma,General Medicine,2024-07-08,2:00 PM,Confirmed,Follow-up blood tests,FALSE,TRUE,NO-SHOW - Needs follow-up call
+A027,P002,Priya Singh,Dr. Rajesh Gupta,General Medicine,2024-07-09,11:00 AM,Confirmed,Asthma control assessment,TRUE,FALSE,Inhaler technique checked
+A028,P003,Amit Patel,Dr. Suresh Kumar,Cardiology,2024-07-09,3:30 PM,Confirmed,Stress test,TRUE,FALSE,Results normal
+A029,P004,Neha Sharma,Dr. Priya Nair,Endocrinology,2024-07-10,9:00 AM,Confirmed,TSH level check,TRUE,TRUE,Reminder sent via voice call
+A030,P006,Deepa Reddy,Dr. Anil Kumar,Neurology,2024-07-10,4:30 PM,Confirmed,Migraine prevention strategy,TRUE,FALSE,New treatment plan
+A031,P007,Suresh Kumar,Dr. Amitabh Sharma,General Medicine,2024-07-11,10:00 AM,Confirmed,Routine health checkup,TRUE,FALSE,All vitals normal
+A032,P008,Anjali Verma,Dr. Priya Nair,Endocrinology,2024-07-11,2:00 PM,Confirmed,Fasting glucose check,TRUE,FALSE,HbA1c improved
+A033,P009,Rahul Desai,Dr. Suresh Kumar,Pulmonology,2024-07-12,11:30 AM,Confirmed,Spirometry test,TRUE,FALSE,Lung function adequate
+A034,P010,Sunita Gupta,Dr. Meera Singh,Orthopedics,2024-07-12,3:00 PM,Confirmed,Osteoporosis treatment review,FALSE,FALSE,NO-SHOW - Rescheduled
+A035,P011,Arun Bhat,Dr. Amitabh Sharma,General Medicine,2024-07-13,10:00 AM,Confirmed,Diet counseling,TRUE,FALSE,Weight management plan updated
+A036,P012,Meera Nair,Dr. Priya Nair,Endocrinology,2024-07-13,2:30 PM,Confirmed,Diabetic neuropathy check,TRUE,TRUE,Reminder sent 24h before
+A037,P013,Sanjay Chopra,Dr. Suresh Kumar,Cardiology,2024-07-14,9:30 AM,Confirmed,Cardiac monitoring,TRUE,FALSE,Holter monitor prescribed
+A038,P014,Ritu Sharma,Dr. Meera Singh,Rheumatology,2024-07-14,4:00 PM,Confirmed,Inflammatory markers check,FALSE,TRUE,NO-SHOW - Called to reschedule
+A039,P015,Nikhil Joshi,Dr. Priya Nair,Endocrinology,2024-07-15,11:00 AM,Confirmed,Creatinine and BUN test,TRUE,FALSE,Kidney function monitored
+A040,P016,Kavya Iyer,Dr. Anjali Reddy,Gynecology,2024-07-15,2:00 PM,Confirmed,Fertility treatment follow-up,TRUE,FALSE,Ultrasound done
