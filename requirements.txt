@@ -1,5 +1,5 @@
-sstreamlit>=1.30.0
-pandas>=2.0.0
-gtts>=2.5.0
-python-dateutil>=2.8.0
-requests>=2.30.0
+streamlit
+pandas
+gtts
+python-dateutil
+requests
